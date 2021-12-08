@@ -1,0 +1,1 @@
+# RATest.-A-Randomization-Tests-package-is-available-on-CRAN
